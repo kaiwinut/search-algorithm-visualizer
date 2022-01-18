@@ -4,7 +4,9 @@ Visualize search algorithms using pygame. Press the key in the parentheses to en
 ###### Supported Features
 - [x] Draw starting point (s), goal (g), obstacles (o)
 - [x] Erase drawn content (c)
+- [x] Add squares (UP, DOWN, LEFT, RIGHT arrow)
 - [x] Play animation (SPACE)
+- [x] Reset (r)
 
 ###### Supported Algorithms
 - [x] BFS (b)
