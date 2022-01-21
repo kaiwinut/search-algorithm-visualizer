@@ -1,4 +1,7 @@
 # Search Algorithm Visualizer
+
+<img src="https://github.com/kaiwinut/search-algorithm-visualizer/blob/main/docs/sample.gif" alt="sample video" width="500">
+
 Visualize search algorithms using pygame. Press the key in the parentheses to enable feature.
 
 ###### Supported Features
